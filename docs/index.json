@@ -1,0 +1,17 @@
+{
+  "api/Calculator.Domain.Calculator.html": {
+    "href": "api/Calculator.Domain.Calculator.html",
+    "title": "Class Calculator | Calculator.Domain - SI784 Lab07",
+    "summary": "Class Calculator Namespace Calculator.Domain Assembly Calculator.Domain.dll Realiza operaciones aritméticas con números enteros. public class Calculator Inheritance object Calculator Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Add(int, int) Suma dos enteros. public int Add(int x, int y) Parameters x int Primer sumando. y int Segundo sumando. Returns int La suma de ambos operandos. Divide(int, int) Divide dos enteros y trunca el cociente hacia cero. public int Divide(int x, int y) Parameters x int Dividendo. y int Divisor. Returns int El cociente entero truncado hacia cero. Exceptions DivideByZeroException El divisor es cero. OverflowException El dividendo es int.MinValue y el divisor es -1. Multiply(int, int) Multiplica dos enteros. public int Multiply(int x, int y) Parameters x int Primer factor. y int Segundo factor. Returns int El producto de ambos factores. Subtract(int, int) Resta dos enteros. public int Subtract(int x, int y) Parameters x int Minuendo. y int Sustraendo. Returns int La diferencia entre los operandos."
+  },
+  "api/Calculator.Domain.html": {
+    "href": "api/Calculator.Domain.html",
+    "title": "Namespace Calculator.Domain | Calculator.Domain - SI784 Lab07",
+    "summary": "Namespace Calculator.Domain Classes Calculator Realiza operaciones aritméticas con números enteros."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Calculator.Domain - SI784 U2 Lab07 | Calculator.Domain - SI784 Lab07",
+    "summary": "Calculator.Domain - SI784 U2 Lab07 Calculadora de enteros comprobada mediante escenarios Gherkin, SpecFlow y NUnit. Referencia de Calculator Se conservan los escenarios originales de suma y resta y se añaden multiplicación y división. La división de enteros trunca hacia cero; el divisor cero provoca DivideByZeroException."
+  }
+}
